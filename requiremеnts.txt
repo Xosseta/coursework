@@ -1,3 +1,4 @@
-requests
+requests==2.28.2
 time
-progress.bar
+progress.bar==1.6
+json
